@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Лиан\race\main.cpp(10,46): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\race\main.cpp(10,32): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\race\main.cpp(15,27): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  race.vcxproj -> D:\Лиан\race\x64\Debug\race.exe
